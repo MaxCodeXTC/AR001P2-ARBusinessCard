@@ -1,2 +1,4 @@
-# AR001 Project 3: AR Car Customizer
-This is an AR Car Customzier app I developed for teaching Augmented Reality Development in AR001 Course.
+# AR001 Project 2: AR Business Card
+This is an AR Business Card app developed for teaching Augmented Reality to the course students.
+
+[Visit Course Website](https://arcourse.netlify.app/)
